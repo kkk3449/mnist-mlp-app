@@ -14,3 +14,4 @@ docker build -t mnist-mlp .
 ```sh
 docker run -it mnist-mlp
 ```
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/kkk3449/mnist-mlp-app)
